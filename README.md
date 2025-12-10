@@ -17,6 +17,7 @@
 🔭 **Currently working on:** Student 
 
 🌱 **Currently learning:** Data Structure & Algorithim
+🌱 **Currently learning:** Object Oriented Programming using Java(OOPJ)
 
 ---
 
