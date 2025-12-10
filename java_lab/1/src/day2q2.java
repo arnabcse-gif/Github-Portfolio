@@ -1,20 +1,24 @@
-class GradeCheck {
+import java.util.Scanner;
+
+class ObjectCount {
+    static int count = 0;
+
+    ObjectCount() {
+        count++;
+    }
+
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-        int mark = 85;   // Mention the mark here
+        System.out.print("Enter number of objects to create: ");
+        int n = sc.nextInt();
 
-        if (mark >= 90) {
-            System.out.println("Grade: O");
-        } else if (mark >= 80) {
-            System.out.println("Grade: E");
-        } else if (mark >= 70) {
-            System.out.println("Grade: A");
-        } else if (mark >= 60) {
-            System.out.println("Grade: B");
-        } else if (mark >= 50) {
-            System.out.println("Grade: C");
-        } else {
-            System.out.println("Grade: Fail");
+        ObjectCount[] obj = new ObjectCount[n];
+
+        for (int i = 0; i < n; i++) {
+            obj[i] = new ObjectCount();
         }
+
+        System.out.println("No of objects created = " + count);
     }
 }
