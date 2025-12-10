@@ -1,5 +1,4 @@
-public class day3q3 {
-}
+
  class WeekDay {
     public static void main(String[] args) {
 
