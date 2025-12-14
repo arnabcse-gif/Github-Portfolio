@@ -1,6 +1,6 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Arnab%20Chakraborty&fontSize=80&fontAlign=50&fontAlignY=35&fontColor=fff&desc=DSA%20&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Arnab%20Chakraborty&fontSize=80&fontAlign=50&fontAlignY=35&fontColor=fff&desc=DSA&java%20&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn" /></div>
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B%20Hi%2C%20I'm%20Arnab%20Chakraborty!%3BDSA%20%3BStudent%20%3BData%20Structure%20%26%20Algorithim%3BWelcome%20to%20my%20GitHub%20Profile!%20%F0%9F%9A%80%3BCode%20is%20Poetry%20%F0%9F%92%AB" alt="Typing Animation" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B%20Hi%2C%20I'm%20Arnab%20Chakraborty!%3BDSA&java%20%3BStudent%20%3BData%20Structure%20%26%20Algorithim%3BWelcome%20to%20my%20GitHub%20Profile!%20%F0%9F%9A%80%3BCode%20is%20Poetry%20%F0%9F%92%AB" alt="Typing Animation" /></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arnabcse-gif&style=for-the-badge&color=00D4AA&labelColor=1a1a1a" alt="Profile Views" />
@@ -17,6 +17,7 @@
 🔭 **Currently working on:** Student 
 
 🌱 **Currently learning:** Data Structure & Algorithim
+🌱 **Currently learning:** Object Oriented Programming using Java(OOPJ)
 
 ---
 
